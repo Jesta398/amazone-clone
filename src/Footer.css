@@ -1,0 +1,16 @@
+.footer{
+    background-color: #0F1111;
+   
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    z-index: 100;
+    
+}
+.footer > p{
+    font-weight: bold;
+    color: white;
+}
